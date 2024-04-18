@@ -3,11 +3,10 @@
 
 ## How To Contribute
 ### Create a Branch: 
-    Click on the branch selector menu ("Main")
-    Type the name of the new branch as 'recipe-(name-of-recipe)' i.e recipe-lo-mein 
+    Click on the '+' at the top left of your screen (beside "main")
+    Fork the repository 
+    Type the name of the new branch into top left ('Name Your File') as 'recipe-(name-of-recipe)' i.e recipe-lo-mein 
 ### Add a Recipe:
-    Navigate to your branch, then click Add file > Create new file
-    Name your file '(name-of-recipe).md' i.e lo-mein.md
     Add your recipe content using hashtags '#' for titles
     Commit the file to your branch
 ### Create a Pull Request:
